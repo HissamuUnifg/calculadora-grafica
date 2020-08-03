@@ -4,6 +4,7 @@ public class Calculadora {
     int operador_1;
     int operador_2;
     String operacao;
+    
     Calculadora calculadora;
 
     public Calculadora(int operador_1, int operador_2, String operacao) {
